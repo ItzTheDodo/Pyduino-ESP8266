@@ -7,6 +7,8 @@ I'll leave some links for creating your own programs using the ESP8266 and the f
 My Pyduino library is very basic and great to modify add and takeaway form your final product however I ask for some credits like I have left for people in the arduino code.
 Thx.
 
+!! You only need to add one of the arduino scripts to your arduino !!
+
 links:
   - https://create.arduino.cc/projecthub/jeffpar0721/add-wifi-to-arduino-uno-663b9e
   - https://www.instructables.com/id/How-to-Install-ESP8266-Into-Arduino-IDE/
