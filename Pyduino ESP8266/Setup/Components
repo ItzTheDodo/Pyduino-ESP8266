@@ -1,0 +1,10 @@
+
+Components:
+ - <Needed> Arduino Uno (or one with the same or more pins)
+ - <Needed> ESP8266 (preferred: ESP8266-01 (8 pin))
+   https://uk.farnell.com/seeed-studio/83-16992/esp8266-wifi-module-breakout-board/dp/2801859?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-SKIzE7K9X2om7Fec8NqZbgYLjivXvm1vaUGnKOs8FY8ADINdpHd8saAh_0EALw_wcB&gross_price=true&mckv=swsyOedko_dc|pcrid|432141622775|plid||kword||match||slid||product|2801859|pgrid|97751758222|ptaid|pla-905294573217|&CMP=KNC-GUK-SHOPPING-DEVTOOLS-EMBEDDED-COMPUTERS-NEWSTRUCTURE-Test113-MarinBidding
+
+ Drone Pyduino:
+  - <Needed> Drone
+  - <Optional> Neo-6m GPS (credits: Sanjiv Anand)
+    https://www.banggood.com/NEO-6M-NEO-7M-NEO-M8N-Double-Sided-Mini-GPS-Module-Satellite-Positioning-Microcontroller-SCM-MCU-Development-B-p-1581047.html?rmmds=search&ID=6278243&cur_warehouse=CN

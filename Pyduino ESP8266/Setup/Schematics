@@ -1,0 +1,23 @@
+
+Drone Control:
+ 8 --> up
+ 9 --> down
+ 10 --> right
+ 11 --> left
+ 12 --> forward
+ 13 --> backward
+ GND --> GND
+
+Drone GPS:
+ GND --> GND
+ 3.3v --> 3.3v
+ TX --> D4
+ Rx --> D5
+                                                      ESP Pins:
+Drone ESP:                                                  1  2  3  4
+ D2 --> 1k (res, id=1)                                      *  *  *  *
+ 1k (res, id=1) --> RX (pin 5) and 1k (res, id=2)           *  *  *  *
+ 1k (res, id=2) --> GND and pin 8                           5  6  7  8
+ 3.3v --> 10k (res)
+ 10k (res) --> pin 1 and pin 3
+ D3 --> TX (pin 4)
